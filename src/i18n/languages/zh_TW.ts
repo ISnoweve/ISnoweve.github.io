@@ -3,8 +3,8 @@ import type { Translation } from "../translation";
 
 export const zh_TW: Translation = {
 	[Key.home]: "首頁",
-	[Key.about]: "關於我們",
-	[Key.archive]: "歸檔",
+	[Key.about]: "個人資料",
+	[Key.archive]: "成就",
 	[Key.search]: "搜尋",
 	[Key.other]: "其他",
 
@@ -19,7 +19,7 @@ export const zh_TW: Translation = {
 	[Key.announcementClose]: "關閉",
 
 	[Key.comments]: "評論",
-	[Key.friends]: "友鏈",
+	[Key.friends]: "朋友",
 	[Key.untitled]: "無標題",
 	[Key.uncategorized]: "未分類",
 	[Key.noTags]: "無標籤",
@@ -42,7 +42,7 @@ export const zh_TW: Translation = {
 	[Key.author]: "作者",
 	[Key.publishedAt]: "發布於",
 	[Key.license]: "許可協議",
-	[Key.anime]: "追番",
+	[Key.anime]: "動漫",
 	[Key.diary]: "日記",
 	[Key.gallery]: "相冊",
 
